@@ -1,4 +1,5 @@
 # Hand_Sign_Recognition
+This project was a collaborative effort among myself and three friends during our third semester at our college.
 
 This project serves as a basic showcase of the exceptional accuracy achieved by utilizing the K-Nearest Neighbors (KNN) algorithm for computer vision tasks. It demonstrates the successful development of a finger spelling sign language translator with an impressive accuracy rate of 95%.
 
